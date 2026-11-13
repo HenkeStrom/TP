@@ -1,0 +1,19 @@
+## Interface: 16001
+## Title: |cff33ff99<TP>|r
+## Notes: Guild-addon för <TP> - kill list och mer
+## Author: Balkan Inferno
+## Version: 0.4.0
+## SavedVariables: TPDB
+
+Core\Init.lua
+Core\Comm.lua
+Core\MainFrame.lua
+Core\Minimap.lua
+
+Modules\KillList\Data.lua
+Modules\KillList\Sync.lua
+Modules\KillList\Detect.lua
+Modules\KillList\Panel.lua
+Modules\KillList\Module.lua
+
+Core\Main.lua
